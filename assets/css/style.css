@@ -391,7 +391,7 @@ select {
 }
 
 .bootstrap-select.btn-group .dropdown-menu.inner {
-    position: static; *
+    position: static; 
     float: none;
     border: 0;
     padding: 0;
@@ -878,7 +878,7 @@ html, body {
 }
 
 .blog-hero {
-    background: url(../img/blog-hero.jpg) no-repeat center / cover;     
+    background: url(../img/dots.jpg) no-repeat center / cover;     
 }
 
 .contact-hero {
