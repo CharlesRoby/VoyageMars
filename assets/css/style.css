@@ -716,7 +716,7 @@ html, body {
 .slicknav_open .slicknav_arrow,
 .slicknav_nav > li a:hover {
     background-color: transparent;
-    color: #6fc754;
+    color: #d66b00;
 }
 
 .navbar-toggle {
@@ -874,7 +874,7 @@ html, body {
 }
 
 .portfolio-hero {
-    background: url(../img/portfolio-hero.jpg) no-repeat center / cover;     
+    background: url(../img/hero.jpeg) no-repeat center / cover;     
 }
 
 .blog-hero {
@@ -882,7 +882,7 @@ html, body {
 }
 
 .contact-hero {
-    background: url(../img/contact-hero.jpg) no-repeat center / cover;     
+    background: url(../img/mars.jpg) no-repeat center / cover;     
 }
 
 /* SITEMAIN
@@ -1590,3 +1590,4 @@ a.linkedin-bg:hover {
   height: 500px;
   width: 100%
 }
+
